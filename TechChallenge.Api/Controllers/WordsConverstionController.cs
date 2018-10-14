@@ -9,13 +9,12 @@ namespace TechChallenge.Api.Controllers
     [ApiController]
     public class WordsConverstionController : ControllerBase
     {
+        NumberToWordsConversion numberToWordsConversion = new NumberToWordsConversion();
 
         // GET api/WordsConverstion/5
         [HttpGet("{inputnumber}")]
         public ActionResult<string> Get( string inputnumber )
         {
-           NumberToWordsConversion numberToWordsConversion = new NumberToWordsConversion();
-
             return numberToWordsConversion.ConvertNumberintoWords(inputnumber);
         }
     }
