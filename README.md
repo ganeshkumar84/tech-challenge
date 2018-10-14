@@ -1,6 +1,6 @@
 ## dotNet Tech Challenge
 
-######Used the following Frameworks for the project
+###### Used the following Frameworks for the project
 
 TechChallenge.Api -  .Net Core 2.1
 
@@ -11,13 +11,13 @@ TechChallenge.Test  - .Net Core 2.1
 TechChallenge.UI - .Net Framework 4.6.1
 
 
-######UI Framesworks 
+###### UI Framesworks 
 
 bootstrap 4
 
 jQuery v3.3.1 
 
-######How to run the application ?
+###### How to run the application ?
 
 Step 1 : Clone Repository
 
