@@ -29,6 +29,6 @@ Step 3: Click on Start button in the visual studio it opens the akqatechchalleng
 
 Step 4: Enter the name and number, it shows the results.
 
-Note : The solution set up with Multiple Start up projects (TechChallenge.Api and TechChallenge.UI) and start up is akqatechchallenge.html.
+Note : The solution set up with Multiple Start up projects (TechChallenge.Api and TechChallenge.UI) and start up page is akqatechchallenge.html.
 
 
