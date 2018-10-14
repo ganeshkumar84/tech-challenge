@@ -1,4 +1,4 @@
-## dotNet Tech Challenge
+## .Net Tech Challenge
 
 ###### Used the following Frameworks for the project
 
