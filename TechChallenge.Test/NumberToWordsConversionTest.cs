@@ -7,7 +7,7 @@ namespace TechChallenge.Test
     {
         NumberToWordsConversion numberToWordsConversion = new NumberToWordsConversion();
         [Fact]
-        public void Test1()
+        public void FourDigitNumber_TwoDigitPrecision()
         {
             var numberInWords = numberToWordsConversion.ConvertNumberToWords( 1234.56 );
 
@@ -15,7 +15,7 @@ namespace TechChallenge.Test
         }
 
         [Fact]
-        public void Test2()
+        public void FourDigitNumber_TwoDigitPrecision_SecondTestCase()
         {
             var numberInWords = numberToWordsConversion.ConvertNumberToWords( 8956.25 );
 
@@ -23,7 +23,7 @@ namespace TechChallenge.Test
         }
 
         [Fact]
-        public void Test3()
+        public void TwoDigitNumber()
         {
             var numberInWords = numberToWordsConversion.ConvertNumberToWords( 85 );
 
@@ -31,7 +31,7 @@ namespace TechChallenge.Test
         }
 
         [Fact]
-        public void Test5()
+        public void SixDigitNumber_TwoDigitPrecision()
         {
             var numberInWords = numberToWordsConversion.ConvertNumberToWords( 859633.35 );
 
