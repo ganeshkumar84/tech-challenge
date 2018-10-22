@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.AspNetCore.Cors;
+using TechChallenge.Services;
 
 namespace TechChallenge.Api
 {
@@ -33,6 +34,10 @@ namespace TechChallenge.Api
                        .AllowAnyMethod()
                        .AllowAnyHeader();
             } ) );
+
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddScoped<INumberToWordsConversion, NumberToWordsConversion>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

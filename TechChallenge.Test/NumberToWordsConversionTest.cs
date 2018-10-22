@@ -6,6 +6,7 @@ namespace TechChallenge.Test
     public class NumberToWordsConversionTest
     {
         NumberToWordsConversion numberToWordsConversion = new NumberToWordsConversion();
+
         [Fact]
         public void FourDigitNumber_TwoDigitPrecision()
         {
@@ -37,6 +38,6 @@ namespace TechChallenge.Test
 
             Assert.Equal( "eight hundred fifty-nine thousand six hundred thirty-three dollars and thirty-five cents", numberInWords );
         }
-        
+
     }
 }

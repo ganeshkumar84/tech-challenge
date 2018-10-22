@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\tech-challenge\\tech-challenge\\tech-challenge\\TechChallenge.Services\\TechChallenge.Services.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\tech\\tech-challenge\\TechChallenge.Services\\TechChallenge.Services.csproj",
       "projectName": "TechChallenge.Services",
-      "projectPath": "C:\\Users\\User\\Desktop\\tech-challenge\\tech-challenge\\tech-challenge\\TechChallenge.Services\\TechChallenge.Services.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\tech\\tech-challenge\\TechChallenge.Services\\TechChallenge.Services.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\tech-challenge\\tech-challenge\\tech-challenge\\TechChallenge.Services\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\tech\\tech-challenge\\TechChallenge.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

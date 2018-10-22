@@ -5762,11 +5762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\tech-challenge\\tech-challenge\\tech-challenge\\TechChallenge.Test\\TechChallenge.Test.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\tech\\tech-challenge\\TechChallenge.Test\\TechChallenge.Test.csproj",
       "projectName": "TechChallenge.Test",
-      "projectPath": "C:\\Users\\User\\Desktop\\tech-challenge\\tech-challenge\\tech-challenge\\TechChallenge.Test\\TechChallenge.Test.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\tech\\tech-challenge\\TechChallenge.Test\\TechChallenge.Test.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\tech-challenge\\tech-challenge\\tech-challenge\\TechChallenge.Test\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\tech\\tech-challenge\\TechChallenge.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5785,8 +5785,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\tech-challenge\\tech-challenge\\tech-challenge\\TechChallenge.Services\\TechChallenge.Services.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\tech-challenge\\tech-challenge\\tech-challenge\\TechChallenge.Services\\TechChallenge.Services.csproj"
+            "C:\\Users\\User\\Desktop\\tech\\tech-challenge\\TechChallenge.Services\\TechChallenge.Services.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\tech\\tech-challenge\\TechChallenge.Services\\TechChallenge.Services.csproj"
             }
           }
         }

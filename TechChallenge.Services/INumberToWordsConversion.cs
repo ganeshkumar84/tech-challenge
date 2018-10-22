@@ -1,6 +1,6 @@
 ﻿namespace TechChallenge.Services
 {
-    interface INumberToWordsConversion
+    public interface INumberToWordsConversion
     {
         string ConvertNumberintoWords( string number );
     }

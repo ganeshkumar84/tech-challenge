@@ -25,3 +25,11 @@ C:\Users\User\Desktop\tech-challenge\tech-challenge\tech-challenge\TechChallenge
 C:\Users\User\Desktop\tech-challenge\tech-challenge\tech-challenge\TechChallenge.Services\obj\Debug\netcoreapp2.1\TechChallenge.Services.AssemblyInfo.cs
 C:\Users\User\Desktop\tech-challenge\tech-challenge\tech-challenge\TechChallenge.Services\obj\Debug\netcoreapp2.1\TechChallenge.Services.dll
 C:\Users\User\Desktop\tech-challenge\tech-challenge\tech-challenge\TechChallenge.Services\obj\Debug\netcoreapp2.1\TechChallenge.Services.pdb
+C:\Users\User\Desktop\tech\tech-challenge\TechChallenge.Services\bin\Debug\netcoreapp2.1\TechChallenge.Services.deps.json
+C:\Users\User\Desktop\tech\tech-challenge\TechChallenge.Services\bin\Debug\netcoreapp2.1\TechChallenge.Services.dll
+C:\Users\User\Desktop\tech\tech-challenge\TechChallenge.Services\bin\Debug\netcoreapp2.1\TechChallenge.Services.pdb
+C:\Users\User\Desktop\tech\tech-challenge\TechChallenge.Services\obj\Debug\netcoreapp2.1\TechChallenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tech\tech-challenge\TechChallenge.Services\obj\Debug\netcoreapp2.1\TechChallenge.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tech\tech-challenge\TechChallenge.Services\obj\Debug\netcoreapp2.1\TechChallenge.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\tech\tech-challenge\TechChallenge.Services\obj\Debug\netcoreapp2.1\TechChallenge.Services.dll
+C:\Users\User\Desktop\tech\tech-challenge\TechChallenge.Services\obj\Debug\netcoreapp2.1\TechChallenge.Services.pdb
